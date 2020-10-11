@@ -1,0 +1,90 @@
+2020-10-12 00:46:08.546 [main] [INFO ] by.borisov.orbitalbase.reader.DataReader - File was read.
+2020-10-12 00:46:08.562 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.563 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.563 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.563 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.563 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.564 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.564 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.565 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.565 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.565 [main] [INFO ] by.borisov.orbitalbase.parser.DataParser - Line is parsed.
+2020-10-12 00:46:08.584 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=1, capacity=30, cargo weight=25}
+2020-10-12 00:46:08.584 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=2, capacity=30, cargo weight=20}
+2020-10-12 00:46:08.584 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=3, capacity=30, cargo weight=30}
+2020-10-12 00:46:08.584 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=4, capacity=40, cargo weight=0}
+2020-10-12 00:46:08.584 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=5, capacity=20, cargo weight=15}
+2020-10-12 00:46:08.585 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=6, capacity=50, cargo weight=0}
+2020-10-12 00:46:08.585 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=7, capacity=20, cargo weight=20}
+2020-10-12 00:46:08.585 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=8, capacity=30, cargo weight=30}
+2020-10-12 00:46:08.585 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=9, capacity=15, cargo weight=10}
+2020-10-12 00:46:08.585 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship{id=10, capacity=10, cargo weight=10}
+2020-10-12 00:46:08.585 [main] [INFO ] by.borisov.orbitalbase.creator.ShipCreator - Ship list created.
+2020-10-12 00:46:08.585 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=1, capacity=30, cargo weight=25}
+2020-10-12 00:46:08.586 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=2, capacity=30, cargo weight=20}
+2020-10-12 00:46:08.586 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=3, capacity=30, cargo weight=30}
+2020-10-12 00:46:08.586 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=4, capacity=40, cargo weight=0}
+2020-10-12 00:46:08.586 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=5, capacity=20, cargo weight=15}
+2020-10-12 00:46:08.586 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=6, capacity=50, cargo weight=0}
+2020-10-12 00:46:08.586 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=7, capacity=20, cargo weight=20}
+2020-10-12 00:46:08.586 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=8, capacity=30, cargo weight=30}
+2020-10-12 00:46:08.587 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=9, capacity=15, cargo weight=10}
+2020-10-12 00:46:08.587 [main] [INFO ] by.borisov.orbitalbase.demo.Demo - Ship{id=10, capacity=10, cargo weight=10}
+2020-10-12 00:46:08.588 [Thread-1] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=2, capacity=30, cargo weight=20} is getting in port.
+2020-10-12 00:46:08.588 [Thread-3] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=4, capacity=40, cargo weight=0} is getting in port.
+2020-10-12 00:46:08.588 [Thread-0] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=1, capacity=30, cargo weight=25} is getting in port.
+2020-10-12 00:46:08.588 [Thread-4] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=5, capacity=20, cargo weight=15} is getting in port.
+2020-10-12 00:46:08.587 [Thread-2] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=3, capacity=30, cargo weight=30} is getting in port.
+2020-10-12 00:46:08.589 [Thread-7] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=8, capacity=30, cargo weight=30} is getting in port.
+2020-10-12 00:46:08.589 [Thread-6] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=7, capacity=20, cargo weight=20} is getting in port.
+2020-10-12 00:46:08.588 [Thread-5] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=6, capacity=50, cargo weight=0} is getting in port.
+2020-10-12 00:46:08.590 [Thread-9] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=10, capacity=10, cargo weight=10} is getting in port.
+2020-10-12 00:46:08.590 [Thread-8] [INFO ] orbitalbase.entity.state.impl.GettingInShipState - Ship{id=9, capacity=15, cargo weight=10} is getting in port.
+2020-10-12 00:46:08.592 [Thread-1] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #1 is created
+2020-10-12 00:46:08.593 [Thread-1] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #2 is created
+2020-10-12 00:46:08.593 [Thread-1] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #3 is created
+2020-10-12 00:46:08.593 [Thread-7] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #8 got pier #1.
+2020-10-12 00:46:08.593 [Thread-2] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #3 got pier #2.
+2020-10-12 00:46:08.593 [Thread-1] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #2 got pier #1.
+2020-10-12 00:46:08.594 [Thread-7] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #1 : Unloading method starts : ship #8 cargo 30 ton
+2020-10-12 00:46:08.594 [Thread-2] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #2 : Unloading method starts : ship #3 cargo 30 ton
+2020-10-12 00:46:08.594 [Thread-1] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #1 : Unloading method starts : ship #2 cargo 20 ton
+2020-10-12 00:46:10.595 [Thread-1] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #2 is unloaded. New ship cargo weight is 0.
+2020-10-12 00:46:10.596 [Thread-1] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Pier #1 is released by ship #2. New pier cargo weight is 70.
+2020-10-12 00:46:10.596 [Thread-0] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #1 got pier #3.
+2020-10-12 00:46:10.597 [Thread-0] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #3 : Unloading method starts : ship #1 cargo 25 ton
+2020-10-12 00:46:11.596 [Thread-2] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #3 is unloaded. New ship cargo weight is 0.
+2020-10-12 00:46:11.596 [Thread-7] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #1 was emptied.
+2020-10-12 00:46:11.597 [Thread-2] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Pier #2 is released by ship #3. New pier cargo weight is 80.
+2020-10-12 00:46:11.597 [Thread-7] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #8 is unloaded. New ship cargo weight is 0.
+2020-10-12 00:46:11.597 [Thread-7] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Pier #1 is released by ship #8. New pier cargo weight is 30.
+2020-10-12 00:46:11.598 [Thread-5] [INFO ] orbitalbase.entity.state.impl.LoadingShipState - Ship #6 got pier #1.
+2020-10-12 00:46:11.598 [Thread-5] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #1 : Loading method starts : ship #6 capacity 50 ton
+2020-10-12 00:46:11.598 [Thread-6] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #7 got pier #2.
+2020-10-12 00:46:11.599 [Thread-6] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #2 : Unloading method starts : ship #7 cargo 20 ton
+2020-10-12 00:46:13.098 [Thread-0] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #1 is unloaded. New ship cargo weight is 0.
+2020-10-12 00:46:13.099 [Thread-0] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Pier #3 is released by ship #1. New pier cargo weight is 75.
+2020-10-12 00:46:13.099 [Thread-8] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #9 got pier #1.
+2020-10-12 00:46:13.100 [Thread-8] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #1 : Unloading method starts : ship #9 cargo 10 ton
+2020-10-12 00:46:13.601 [Thread-6] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #2 was emptied.
+2020-10-12 00:46:13.601 [Thread-6] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #7 is unloaded. New ship cargo weight is 0.
+2020-10-12 00:46:13.601 [Thread-6] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Pier #2 is released by ship #7. New pier cargo weight is 20.
+2020-10-12 00:46:13.602 [Thread-4] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #5 got pier #3.
+2020-10-12 00:46:13.602 [Thread-4] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #3 : Unloading method starts : ship #5 cargo 15 ton
+2020-10-12 00:46:14.100 [Thread-8] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #9 is unloaded. New ship cargo weight is 0.
+2020-10-12 00:46:14.101 [Thread-8] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Pier #1 is released by ship #9. New pier cargo weight is 40.
+2020-10-12 00:46:14.101 [Thread-9] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #10 got pier #2.
+2020-10-12 00:46:14.101 [Thread-9] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #2 : Unloading method starts : ship #10 cargo 10 ton
+2020-10-12 00:46:15.103 [Thread-4] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #5 is unloaded. New ship cargo weight is 0.
+2020-10-12 00:46:15.104 [Thread-4] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Pier #3 is released by ship #5. New pier cargo weight is 90.
+2020-10-12 00:46:15.104 [Thread-9] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Ship #10 is unloaded. New ship cargo weight is 0.
+2020-10-12 00:46:15.104 [Thread-3] [INFO ] orbitalbase.entity.state.impl.LoadingShipState - Ship #4 got pier #1.
+2020-10-12 00:46:15.104 [Thread-9] [INFO ] orbitalbase.entity.state.impl.UnloadingShipState - Pier #2 is released by ship #10. New pier cargo weight is 30.
+2020-10-12 00:46:15.105 [Thread-3] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #1 : Loading method starts : ship #4 capacity 40 ton
+2020-10-12 00:46:16.599 [Thread-5] [INFO ] by.borisov.orbitalbase.entity.Pier - Not enough cargo in pier #1 to load ship full. Generate cargo.
+2020-10-12 00:46:16.600 [Thread-5] [INFO ] orbitalbase.entity.state.impl.LoadingShipState - Ship #6 is loaded. New ship cargo weight is 50.
+2020-10-12 00:46:16.600 [Thread-5] [INFO ] orbitalbase.entity.state.impl.LoadingShipState - Pier #1 is released by ship #6. New pier cargo weight is 50.
+2020-10-12 00:46:19.106 [Thread-3] [INFO ] by.borisov.orbitalbase.entity.Pier - No cargo in pier #1. Generate cargo.
+2020-10-12 00:46:19.106 [Thread-3] [INFO ] by.borisov.orbitalbase.entity.Pier - Pier #1 was filled to 50 ton
+2020-10-12 00:46:19.107 [Thread-3] [INFO ] orbitalbase.entity.state.impl.LoadingShipState - Ship #4 is loaded. New ship cargo weight is 40.
+2020-10-12 00:46:19.107 [Thread-3] [INFO ] orbitalbase.entity.state.impl.LoadingShipState - Pier #1 is released by ship #4. New pier cargo weight is 40.
